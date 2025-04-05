@@ -1,3 +1,5 @@
+React Password Generator is a customizable and secure password generation tool built using React.js. It provides users with the ability to create strong, random passwords by selecting specific character types such as uppercase letters, lowercase letters, numbers, and special symbols. The interface is clean and responsive, allowing users to adjust the desired password length and instantly generate a new password based on their selected preferences. The application also includes a convenient copy-to-clipboard feature, making it easy to use the generated password wherever needed. Designed with simplicity and usability in mind, this project showcases modern React development practices and offers a practical solution for generating secure passwords on the fly.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
